@@ -29,7 +29,7 @@ Onyx provides a Chat interface and plugs into any LLM of your choice. Onyx can b
 scale - on a laptop, on-premise, or to cloud. Since you own the deployment, your user data and chats are fully in your
 own control. Onyx is dual Licensed with most of it under MIT license and designed to be modular and easily extensible. The system also comes fully ready
 for production usage with user authentication, role management (admin/basic users), chat persistence, and a UI for
-configuring AI Assistants. New.
+configuring AI Assistants. New. New2.
 
 Onyx also serves as a Enterprise Search across all common workplace tools such as Slack, Google Drive, Confluence, etc.
 By combining LLMs and team specific knowledge, Onyx becomes a subject matter expert for the team. Imagine ChatGPT if
